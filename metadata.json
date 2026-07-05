@@ -1,0 +1,6 @@
+{
+  "name": "AI Agent Workspace",
+  "description": "A premium, unified AI agent platform and productivity workspace with streaming chat, memory systems, specialized agents, file analysis, and voice capability.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
